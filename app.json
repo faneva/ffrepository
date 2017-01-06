@@ -1,0 +1,19 @@
+{
+  "name": "ffrepository",
+  "scripts": {
+  },
+  "env": {
+    "GITHUB_USERNAME": "faneva",
+    " OTHER_VAR": "production"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
